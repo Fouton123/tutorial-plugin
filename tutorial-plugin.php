@@ -1,6 +1,6 @@
 /*
  * Plugin Name:       Tutorial Plugin
- * Plugin URI:        
+ * Plugin URI:        https://github.com/Fouton123/tutorial-plugin
  * Description:       Handle the basics with this plugin.
  * Version:           1.0
  * Requires at least: 5.2
@@ -13,3 +13,4 @@
  * Text Domain:       tutorial-plugin
  * Domain Path:       /languages
  */
+
